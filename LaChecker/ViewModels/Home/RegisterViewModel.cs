@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
-using LaChecker.Models;
+using WebAPI.Models.DbModels;
 
 namespace LaChecker.ViewModels {
     public class RegisterViewModel {

@@ -1,15 +1,11 @@
-﻿@model LaChecker.ViewModels.Checker.IndexViewModel
+﻿@model WebAPI.Models.DbModels.User
 @{
     ViewBag.Title = "Index";
 }
 
-<link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" type="text/css" />
 <script src=@Url.Content("~/scripts/custom/checker_index.js")></script>
 
-
-
-
-@Html.HiddenFor(model => model.currentUser.Id, htmlAttributes: new { @id = "userId"})
+@Html.HiddenFor(model => model.Id, new { @id = "userId" })
 
 <div class="row" style="margin-top: 40px">
     <div class="form-group col-lg-5">
@@ -19,22 +15,6 @@
     <div class="form-group col-lg-7">
         <label for="topUsers">Top 10 Users</label>
         <table class="table table-responsive" id="topUsers">
-            <tr>
-                <th>#</th>
-                <th>Nickname</th>
-                <th>Score</th>
-                <th>Last Time Logged In</th>
-                <th>Average</th>
-            </tr>
-            @for (int i = 0; i < Model.topUsers.Count; i++) {
-                <tr>
-                    <td>@(i + 1)</td>
-                    <td>@Model.topUsers[i].Nickname</td>
-                    <td>@Model.topUsers[i].TotalRequests</td>
-                    <td>@Model.topUsers[i].LastLogIn</td>
-                    <td>@Model.topUsers[i].AvgTimeBetweenRequests</td>
-                </tr>
-            }
         </table>
     </div>
 </div>

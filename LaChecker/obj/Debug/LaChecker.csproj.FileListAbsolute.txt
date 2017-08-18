@@ -72,74 +72,6 @@ C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\ValCheck\ValCheck\bin\Sy
 C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\ValCheck\ValCheck\obj\Debug\LaChecker.csprojResolveAssemblyReference.cache
 C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\ValCheck\ValCheck\obj\Debug\LaChecker.dll
 C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\ValCheck\ValCheck\obj\Debug\LaChecker.pdb
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\ApplicationInsights.config
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\roslyn\csc.exe
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\roslyn\vbc.exe
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\roslyn\VBCSCompiler.exe
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\LaChecker.dll.config
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\LaChecker.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\LaChecker.pdb
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\EntityFramework.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\EntityFramework.SqlServer.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Google.Apis.Auth.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Google.Apis.Auth.PlatformServices.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Google.Apis.Core.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Google.Apis.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Google.Apis.PlatformServices.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Google.Apis.Translate.v2.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.AI.Agent.Intercept.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.AI.DependencyCollector.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.AI.Web.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.AI.WindowsServer.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.ApplicationInsights.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Newtonsoft.Json.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Data.SQLite.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Data.SQLite.EF6.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Data.SQLite.Linq.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Interactive.Async.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Web.Helpers.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Web.Mvc.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Web.Razor.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Web.Webpages.Deployment.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Web.Webpages.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Web.Webpages.Razor.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\EntityFramework.xml
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\EntityFramework.SqlServer.xml
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Google.Apis.xml
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Google.Apis.Auth.xml
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Google.Apis.Core.xml
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Google.Apis.Translate.v2.xml
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.AI.DependencyCollector.xml
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.AI.ServerTelemetryChannel.xml
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.AI.Web.xml
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.AI.WindowsServer.xml
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.ApplicationInsights.xml
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Newtonsoft.Json.xml
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Data.SQLite.xml
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Interactive.Async.xml
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Web.Razor.xml
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Web.Webpages.xml
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Web.Webpages.Deployment.xml
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Web.Webpages.Razor.xml
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Web.Helpers.xml
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Web.Mvc.xml
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\obj\Debug\LaChecker.csprojResolveAssemblyReference.cache
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\obj\Debug\LaChecker.dll
-C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\obj\Debug\LaChecker.pdb
 C:\Users\Stud2_S8\Downloads\LaChecker\LaChecker\bin\ApplicationInsights.config
 C:\Users\Stud2_S8\Downloads\LaChecker\LaChecker\bin\roslyn\csc.exe
 C:\Users\Stud2_S8\Downloads\LaChecker\LaChecker\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -208,3 +140,300 @@ C:\Users\Stud2_S8\Downloads\LaChecker\LaChecker\bin\System.Web.Mvc.xml
 C:\Users\Stud2_S8\Downloads\LaChecker\LaChecker\obj\Debug\LaChecker.csprojResolveAssemblyReference.cache
 C:\Users\Stud2_S8\Downloads\LaChecker\LaChecker\obj\Debug\LaChecker.dll
 C:\Users\Stud2_S8\Downloads\LaChecker\LaChecker\obj\Debug\LaChecker.pdb
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\ApplicationInsights.config
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\roslyn\csc.exe
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\roslyn\vbc.exe
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\roslyn\VBCSCompiler.exe
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\LaChecker.dll.config
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\LaChecker.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\LaChecker.pdb
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\EntityFramework.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\EntityFramework.SqlServer.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\Google.Apis.Auth.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\Google.Apis.Core.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\Google.Apis.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\Google.Apis.PlatformServices.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\Google.Apis.Translate.v2.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\Microsoft.AI.Web.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\Newtonsoft.Json.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\System.Data.SQLite.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\System.Data.SQLite.EF6.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\System.Data.SQLite.Linq.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\System.Interactive.Async.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\System.Web.Helpers.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\System.Web.Mvc.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\System.Web.Razor.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\System.Web.Webpages.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\System.Web.Webpages.Razor.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\EntityFramework.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\EntityFramework.SqlServer.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\Google.Apis.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\Google.Apis.Auth.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\Google.Apis.Core.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\Google.Apis.Translate.v2.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\Microsoft.AI.Web.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\Newtonsoft.Json.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\System.Data.SQLite.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\System.Interactive.Async.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\System.Web.Razor.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\System.Web.Webpages.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\System.Web.Webpages.Razor.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\System.Web.Helpers.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\bin\System.Web.Mvc.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\obj\Debug\LaChecker.csprojResolveAssemblyReference.cache
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\obj\Debug\LaChecker.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker - Copy\LaChecker\obj\Debug\LaChecker.pdb
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\ApplicationInsights.config
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\roslyn\csc.exe
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\roslyn\vbc.exe
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\roslyn\VBCSCompiler.exe
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\LaChecker.dll.config
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\LaChecker.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\LaChecker.pdb
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\EntityFramework.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\EntityFramework.SqlServer.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\Google.Apis.Auth.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\Google.Apis.Core.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\Google.Apis.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\Google.Apis.PlatformServices.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\Google.Apis.Translate.v2.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\Microsoft.AI.Web.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\Newtonsoft.Json.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\System.Data.SQLite.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\System.Data.SQLite.EF6.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\System.Data.SQLite.Linq.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\System.Interactive.Async.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\System.Net.Http.Formatting.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\System.Web.Helpers.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\System.Web.Http.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\System.Web.Http.WebHost.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\System.Web.Mvc.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\System.Web.Razor.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\System.Web.Webpages.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\System.Web.Webpages.Razor.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\EntityFramework.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\EntityFramework.SqlServer.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\Google.Apis.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\Google.Apis.Auth.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\Google.Apis.Core.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\Google.Apis.Translate.v2.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\Microsoft.AI.Web.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\Newtonsoft.Json.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\System.Data.SQLite.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\System.Interactive.Async.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\System.Net.Http.Formatting.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\System.Web.Http.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\System.Web.Http.WebHost.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\System.Web.Razor.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\System.Web.Webpages.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\System.Web.Webpages.Razor.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\System.Web.Helpers.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\System.Web.Mvc.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\obj\Debug\LaChecker.csprojResolveAssemblyReference.cache
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\obj\Debug\LaChecker.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\obj\Debug\LaChecker.pdb
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\ApplicationInsights.config
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\roslyn\csc.exe
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\roslyn\vbc.exe
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\roslyn\VBCSCompiler.exe
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\LaChecker.dll.config
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\LaChecker.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\LaChecker.pdb
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\EntityFramework.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\EntityFramework.SqlServer.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Google.Apis.Auth.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Google.Apis.Core.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Google.Apis.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Google.Apis.PlatformServices.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Google.Apis.Translate.v2.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.AI.Web.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Newtonsoft.Json.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Data.SQLite.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Data.SQLite.EF6.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Data.SQLite.Linq.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Interactive.Async.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Net.Http.Formatting.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Web.Helpers.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Web.Http.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Web.Http.WebHost.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Web.Mvc.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Web.Razor.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Web.Webpages.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Web.Webpages.Razor.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\EntityFramework.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\EntityFramework.SqlServer.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Google.Apis.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Google.Apis.Auth.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Google.Apis.Core.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Google.Apis.Translate.v2.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.AI.Web.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\Newtonsoft.Json.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Data.SQLite.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Interactive.Async.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Net.Http.Formatting.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Web.Http.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Web.Http.WebHost.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Web.Razor.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Web.Webpages.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Web.Webpages.Razor.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Web.Helpers.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\bin\System.Web.Mvc.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\obj\Debug\LaChecker.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker\LaChecker\obj\Debug\LaChecker.pdb
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\ApplicationInsights.config
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\roslyn\csc.exe
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\roslyn\vbc.exe
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\roslyn\VBCSCompiler.exe
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\LaChecker.dll.config
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\LaChecker.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\LaChecker.pdb
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\EntityFramework.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\EntityFramework.SqlServer.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\Google.Apis.Auth.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\Google.Apis.Core.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\Google.Apis.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\Google.Apis.PlatformServices.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\Google.Apis.Translate.v2.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\Microsoft.AI.Web.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\Newtonsoft.Json.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\System.Data.SQLite.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\System.Data.SQLite.EF6.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\System.Data.SQLite.Linq.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\System.Interactive.Async.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\System.Net.Http.Formatting.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\System.Web.Cors.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\System.Web.Helpers.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\System.Web.Http.Cors.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\System.Web.Http.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\System.Web.Http.WebHost.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\System.Web.Mvc.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\System.Web.Razor.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\System.Web.Webpages.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\System.Web.Webpages.Razor.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\EntityFramework.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\EntityFramework.SqlServer.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\Google.Apis.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\Google.Apis.Auth.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\Google.Apis.Core.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\Google.Apis.Translate.v2.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\Microsoft.AI.Web.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\Newtonsoft.Json.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\System.Data.SQLite.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\System.Interactive.Async.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\System.Net.Http.Formatting.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\System.Web.Http.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\System.Web.Http.Cors.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\System.Web.Http.WebHost.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\System.Web.Razor.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\System.Web.Webpages.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\System.Web.Webpages.Razor.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\System.Web.Helpers.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\bin\System.Web.Mvc.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\obj\Debug\LaChecker.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\obj\Debug\LaChecker.pdb
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Web API 2 Projects\LaChecker\obj\Debug\LaChecker.csprojResolveAssemblyReference.cache
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\System.Web.Cors.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\System.Web.Http.Cors.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\System.Web.Http.Cors.xml
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\WebAPI.dll
+C:\Users\Stud2_S8\Documents\Visual Studio 2015\Projects\LaChecker Using Web API\LaChecker\bin\WebAPI.pdb

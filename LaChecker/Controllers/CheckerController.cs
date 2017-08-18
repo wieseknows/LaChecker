@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
-using LaChecker.Models;
-using LaChecker.ViewModels.Checker;
+using WebAPI.Models.DbModels;
+using WebAPI.Models.DbFactories;
 
 namespace LaChecker.Controllers
 {
@@ -16,7 +16,7 @@ namespace LaChecker.Controllers
             } else {
                 user = (Session["__User"] as User);
                 Session["__User"] = null;
-                return View(new IndexViewModel { currentUser = user, topUsers = topUserFactory.Top10Users() });
+                return View(user);
             }
         }
     }

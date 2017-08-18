@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Mvc;
-using LaChecker.Helpers;
-using LaChecker.Models;
+using WebAPI.Models.DbFactories;
+using WebAPI.Models.DbModels;
+using System.Net.Http;
 using LaChecker.ViewModels;
 
 namespace LaChecker.Controllers
@@ -12,11 +13,9 @@ namespace LaChecker.Controllers
 
         private UserFactory userFactory = new UserFactory();
         private RequestFactory requestFactory = new RequestFactory();
+        private HttpClient httpClient = new HttpClient();
 
         public ActionResult Login() {
-            if (Settings.Languages == null) {
-                Settings.GetStatisticsOfLanguages();
-            }
             if (Session["__User"] != null) {
                 return RedirectToAction("Index", "Checker");
             }
@@ -26,19 +25,17 @@ namespace LaChecker.Controllers
 
         [HttpPost]
         public ActionResult Login(User user) {
-            User foundUser = userFactory.GetByNickName(user.Nickname);
-            // User wasn't found
-            if (foundUser.Id == null) {
+            var response = httpClient.GetAsync("http://localhost:1833/api/user/" + user.Nickname).Result;
+            var foundUser = response.Content.ReadAsAsync<User>().Result;
+
+            if (foundUser == null) {
                 return RedirectToAction("Register", user);
             }
-            // User was found but password is incorrect
             if (!foundUser.Password.Equals(user.Password)) {
                 ViewBag.ErrorMessage = "Password is not correct";
                 return View();
-            // Everything is OK
+            // GOT USER WITH ALREADY UPDATED `LASTLOGIN` FIELD
             } else {
-                // Update LastLogIn field
-                userFactory.UpdateFields(foundUser, new List<string> { "LastLogIn" }, new List<string> { DateTime.Now.ToString(Settings.SQLiteDateTimeFormat) });
                 Session["__User"] = foundUser;
                 return RedirectToAction("Index", "Checker");
             }
@@ -54,11 +51,10 @@ namespace LaChecker.Controllers
         [HttpPost]
         public ActionResult Register(RegisterViewModel model) {
             if (model.Password.Equals(model.user.Password)) {
-                // Update LastLogIn field
-                model.user.LastLogIn = DateTime.Now.ToString(Settings.SQLiteDateTimeFormat);
-                // Add to database
-                model.user.Id = userFactory.Insert(model.user);
-                Session["__User"] = model.user;
+                var response = httpClient.PostAsJsonAsync("http://localhost:1833/api/user", model.user).Result;
+                User registeredUser = response.Content.ReadAsAsync<User>().Result;
+
+                Session["__User"] = registeredUser;
                 return RedirectToAction(actionName: "Index", controllerName: "Checker");
             } else {
                 ViewBag.ErrorMessage = "Passwords don't match";

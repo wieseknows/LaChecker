@@ -1,4 +1,17 @@
 ﻿$(document).ready(function () {
+
+    $.ajax({
+        url: "http://localhost:1833/api/topUsers",
+        type: "get",
+        dataType: "json",
+        success: function (result) {
+            loadTopUsersTable(result);
+        },
+        error: function () {
+            alert("Error loading top users");
+        }
+    });
+
     $('#editor').bind('keypress', function (e) {
         if (e.which == 32) {
             $('#editor').each(function () {
@@ -13,18 +26,17 @@
             });
 
             $('#editor span').hover(function () {
-                var wordToIdentify = $(this).text().trim();
-                if (wordToIdentify.toString().length < 4) {
+                var wordToIdentify = $(this).text().trim().toString();
+                if (wordToIdentify.length < 4) {
                     return;
                 }
-
                 var dataToBeSend = {
                     word: wordToIdentify,
-                    userId: $("#userId").val()
-                };
+                    userId: $('#userId').val().toString() 
+                }
 
                 $.ajax({
-                    url: "/Api/IdentifyWord",
+                    url: "http://localhost:1833/api/identification",
                     type: "post",
                     data: JSON.stringify(dataToBeSend),
                     dataType: "json",
@@ -33,26 +45,23 @@
                         loadProbabilitiesTable(result);
                     },
                     error: function () {
-                        alert("Oh no");
+                        alert("Error loading probabilities");
                     }
                 });
+
                 $('#tooltip').show();
 
                 $.ajax({
-                    url: "/Api/GetTopUsers",
-                    type: "post",
+                    url: "http://localhost:1833/api/topUsers",
+                    type: "get",
                     dataType: "json",
-                    contentType: "application/json",
                     success: function (result) {
-                        if (result.toString() != "No data") {
-                            loadTable("topUsers", result);
-                        }
+                        loadTopUsersTable(result);
                     },
                     error: function () {
-                        alert("Oh no");
+                        alert("Error loading top users");
                     }
                 });
-
             }, function () {
                 $('#tooltip').hide();
             });
@@ -96,19 +105,16 @@ function loadProbabilitiesTable(data) {
             rows += row + '</tr>';
         }
     });
-
-    $('#probabilities').html(rows).fadeIn('fast');
+    $('#probabilities').html(rows).fadeIn('slow');
 }
 
-function loadTable(tableId, data) {
+function loadTopUsersTable(data) {
     var rows = '';
-    // Add headers
-    rows += '<tr><th>#</th>';
+    rows += '<body><tr><th>#</th>';
     rows += '<th>Nickname</th>';
     rows += '<th>Score</th>';
     rows += '<th>Last Time Logged In</th>';
     rows += '<th>Average</th></tr>';
-
     $.each(data, function (key, topUser) {
         var row = '<tr>';
         row += '<td>' + (key + 1) + '</td>';
@@ -118,7 +124,7 @@ function loadTable(tableId, data) {
         row += '<td>' + topUser.AvgTimeBetweenRequests + '</td>';
         rows += row + '</tr>';
     });
-
-    $('#' + tableId).html(rows).hide();
-    $('#' + tableId).html(rows).fadeIn("slow");
+    rows += "</body>";
+    $('#topUsers').html(rows).hide();
+    $('#topUsers').html(rows).fadeIn();
 }
